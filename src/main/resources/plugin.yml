@@ -1,0 +1,12 @@
+name: AdvanceAbility
+version: 0.1
+description: AdvanceAbility - Create you own ability and use it!
+author: Zen3515
+
+main: com.ZerkZeta.AdvanceAbility.AdvanceAbilityMain
+
+commands:
+  AdvanceAbility:
+    description: main command for AdvanceAbility plugin.
+    usage: §6/AA <method>
+    aliases: [aa, adability, aab, ability, specialability]

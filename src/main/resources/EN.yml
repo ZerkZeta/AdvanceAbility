@@ -1,0 +1,9 @@
+Version: 1.0
+Message:
+  Too_few_arguments: "&&cToo few arguments."
+  Too_much_arguments: "&&cToo much arguments."
+  This_command_only_can_be_run_by_a_player: "&&cThis command only can be run by a player."
+  You_only_can_activate_one_ability_a_time: "&&cYou only can activate one ability a time."
+  Activated: "Activated!"
+  Deactivated: "Deactivated!"
+  Item_was_not_found: "&&cItem was not found"
